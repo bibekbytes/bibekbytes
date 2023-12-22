@@ -1,4 +1,4 @@
-👋 Hi, @bibekbytes! Nice to meet you!
+👋 Hi, I'm @bibekbytes!
 👀 I’m interested in everything related to game development, technology, and the MERN stack.
 🌱 I’m currently learning the ins and outs of backend web development with the MERN stack.
 💞️ I’m looking to collaborate on game development projects or anything related to web development using the MERN stack.
